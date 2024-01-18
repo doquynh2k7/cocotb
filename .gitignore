@@ -1,0 +1,14 @@
+# cocotb temp files
+__pycache__
+sim_build
+mini/*/results.xml
+
+# wave
+*.vcd
+*.fst
+
+# editor temp files
+*.*~
+*.swp
+*.bk
+*.tmp
